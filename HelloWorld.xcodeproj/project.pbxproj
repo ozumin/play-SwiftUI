@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8306910224B1D9320094F980 /* TabAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8306910124B1D9320094F980 /* TabAView.swift */; };
 		8377BA9D2445506300BDBEFB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8377BA9C2445506300BDBEFB /* AppDelegate.swift */; };
 		8377BA9F2445506300BDBEFB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8377BA9E2445506300BDBEFB /* SceneDelegate.swift */; };
 		8377BAA12445506300BDBEFB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8377BAA02445506300BDBEFB /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8306910124B1D9320094F980 /* TabAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabAView.swift; sourceTree = "<group>"; };
 		8377BA992445506300BDBEFB /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8377BA9C2445506300BDBEFB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8377BA9E2445506300BDBEFB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				8377BA9C2445506300BDBEFB /* AppDelegate.swift */,
 				8377BA9E2445506300BDBEFB /* SceneDelegate.swift */,
 				8377BAA02445506300BDBEFB /* ContentView.swift */,
+				8306910124B1D9320094F980 /* TabAView.swift */,
 				8377BAA22445506C00BDBEFB /* Assets.xcassets */,
 				8377BAA72445506C00BDBEFB /* LaunchScreen.storyboard */,
 				8377BAAA2445506C00BDBEFB /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8377BA9D2445506300BDBEFB /* AppDelegate.swift in Sources */,
+				8306910224B1D9320094F980 /* TabAView.swift in Sources */,
 				8377BA9F2445506300BDBEFB /* SceneDelegate.swift in Sources */,
 				8377BAA12445506300BDBEFB /* ContentView.swift in Sources */,
 			);
