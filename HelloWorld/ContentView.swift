@@ -20,6 +20,12 @@ struct ContentView: View {
                         Text("TabA")
                     }
             }.tag(1)
+            ListView()
+                .tabItem {
+                    VStack {
+                        Text("List")
+                    }
+            }.tag(2)
         }
     }
 }
